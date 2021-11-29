@@ -1,3 +1,3 @@
 Hola esto es una prueba
 Este archivo ha sido modificado desde la rama ramalocal1.
-Esta linea se ha añadido en ramalocal2.
+Esta linea se ha cambiado en ramalocal2.
